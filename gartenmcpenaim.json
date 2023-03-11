@@ -24,8 +24,8 @@
     },
     "settings": {
         "showLog": true,
-        "target_game_package": "com.gartenofbanban.gartenofbanbanminecraftmod",
-        "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
+        "target_game_package": "com.ultimategamestudio.mcpecenter.mods",
+        "onesignal_app_id": "07cfb98e-fa07-477c-84d4-a4e6e04fadba",
 		"allow_download_on_error": false,
         "review": {
 			"show": true,
